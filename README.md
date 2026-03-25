@@ -12,8 +12,8 @@
 
 ## Використані функції
 - COUNT() OVER()
-- `MIN() OVER()`
-- `MAX() OVER()`
-- `PARTITION BY`
+- MIN() OVER()
+- MAX() OVER()
+- PARTITION BY
 
 
