@@ -16,4 +16,4 @@
 - `MAX() OVER()`
 - `PARTITION BY`
 
----
+
